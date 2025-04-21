@@ -1,8 +1,4 @@
-Sure Priya! Here's a more user-focused and detailed `README.md` for your **Cab Reservation System** project. This version is written in a way that helps **users** understand what the project does, how to use it, and what to expect when they run it.
 
----
-
-```markdown
 # 🚖 Cab Reservation System
 
 Welcome to the **Cab Reservation System** – a simple Java-based console application that helps users easily book cabs, and allows admins to manage bookings, cab details, and users.
